@@ -1,2 +1,1 @@
-# 1Task
-education
+# Misha PISYN
