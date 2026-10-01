@@ -14,7 +14,7 @@
 
 ## Данные для работы
 
-[Шаблон](https://www.figma.com/design/686IUoVJ8GvOq85Sr0bQem/Untitled?node-id=0-1&p=f&t=0sYCdgOEPapD5nJf-0)
+### [Шаблон](https://www.figma.com/design/686IUoVJ8GvOq85Sr0bQem/Untitled?node-id=0-1&p=f&t=0sYCdgOEPapD5nJf-0)
 
 Здесь не хватает некоторых картинок и текста, которых нет я тебе скину
 
